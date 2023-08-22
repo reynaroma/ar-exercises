@@ -26,4 +26,4 @@ store3 = Store.create(
 )
 
 number_of_stores = Store.count
-puts "The number of stores indate database: #{number_of_stores}"
+puts "The number of stores in the database: #{number_of_stores}"
